@@ -20,7 +20,8 @@
   let s:base0D=['#6699cc', '68']
   let s:base0E=['#c594c5', '176']
   let s:base0F=['#ab7967', '137']
-  let s:base10=['#ffffff', '15']
+  "let s:base10=['#ffffff', '15']
+  let s:base10=['#343d46', '15']
 " }}}
 
 let s:normal1   = [s:base10[0], s:base0C[0], s:base10[1], s:base0C[1]]
